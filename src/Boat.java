@@ -14,3 +14,5 @@ public class Boat {
 		 System.out.print("drift");
 	 }
 }
+  
+
